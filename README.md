@@ -5,9 +5,9 @@ _append
 
 <p>Append html to selector, append scripts to head.<br />Accepts:</p>
 <ol>
-  <li> 1. String with or without html.</li>
-  <li>2. Javascript, external and internal.</li>
-  <li>3. CSS, external and internal.</li>
-  <li>4. Combinations of any of the above.</li>
+  <li>String with or without html.</li>
+  <li>Javascript, external and internal.</li>
+  <li>CSS, external and internal.</li>
+  <li>Combinations of any of the above.</li>
 </ol>
 <p>IE8 +, maybe older browsers too.</p>
